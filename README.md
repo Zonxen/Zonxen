@@ -9,7 +9,7 @@
 <h3>My social account:</h3> 
 
   
-  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/jovaneah" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
   

@@ -13,6 +13,6 @@
     <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
   <a href="https://wa.me/6281395744255" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Whatsapp-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
   

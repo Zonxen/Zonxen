@@ -10,9 +10,12 @@
 
   
   <a href="https://www.linkedin.com/in/jovaneah" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
   <a href="https://wa.me/6281385744255" alt="Whatsapp">
     <img src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=FFF"/>
+  </a>
+  <a href="https://instagram.com/jovaneah" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
   

@@ -2,7 +2,7 @@
 
 <h2>Hello World☕, I'm Jovan</h2>
 
-<p>I'm a coder🧑🏽‍💻, problem solver,<br> learning day by day, <br> achieve my goal, <br>Back-end & Front-end Developer☕</p>
+<p>I'm a coder🧑🏽‍💻, problem solver,<br> learning day by day, <br> achieve my goal, <br>Back-end & Front-end Developer👾🖥️</p>
 
 </br>
 

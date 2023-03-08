@@ -1,6 +1,6 @@
 <img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo iuricode">
 
-<h2>Hello World ☕</h2>
+<h2>Hello World☕, I'm Jovan</h2>
 
 <p>I'm a coder🧑🏽‍💻, problem solver,<br> learning day by day, <br> achieve my goal, <br>Back-end & Front-end Developer☕</p>
 

@@ -18,6 +18,7 @@
   <a href="https://instagram.com/jovaneah" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
+  <img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" width="160" height="140">
   
 
 ## 📈 GitHub Stats

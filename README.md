@@ -27,3 +27,6 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=zonxen&show_icons=true&theme=dark&title_color=00F5FF&icon_color=865DFF)
 <br>
 ![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Zonxen&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)
+
+
+<a href="https://app.daily.dev/zonxen"><img src="https://api.daily.dev/devcards/v2/ZY2ePq2rV0y2jiMnGFsUs.png?type=default&r=pr9" width="356" alt="Jovan Emmanuel's Dev Card"/></a>

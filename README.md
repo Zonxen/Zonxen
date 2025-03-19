@@ -1,32 +1,80 @@
-<img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo iuricode">
+<br clear="both">
 
-<h2>Hello World☕, I'm Jovan</h2>
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
-<p>I'm a coder🧑🏽‍💻, problem solver,<br> learning day by day, <br> achieve my goal, <br>Back-end & Front-end Developer👾🖥️</p>
+###
 
-</br>
+<h1 align="center">Hi! I'm Jovan🧑‍💻</h1>
 
-<h3>My social account:</h3> 
+###
 
-  
-  <a href="https://www.linkedin.com/in/jovaneah" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zonxen.zonxen&left_color=black&right_color=mediumspringgreen&left_text=Visitors"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jovaneah/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/6281385744255" alt="Whatsapp">
-    <img src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=FFF"/>
+  <a href="https://www.instagram.com/jovaneah/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://instagram.com/jovaneah" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
+  <a href="https://medium.com/@jovaneah" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
-  <img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" width="160" height="140">
-  
+</div>
 
-## 📈 GitHub Stats
+###
 
+<img src="https://raw.githubusercontent.com/zonxen/zonxen/output/snake.svg" alt="Snake animation" />
 
-![stats](https://github-readme-stats.vercel.app/api?username=zonxen&show_icons=true&theme=dark&title_color=00F5FF&icon_color=865DFF)
-<br>
-![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Zonxen&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zonxen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=zonxen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<a href="https://app.daily.dev/zonxen"><img src="https://api.daily.dev/devcards/v2/ZY2ePq2rV0y2jiMnGFsUs.png?type=default&r=pr9" width="356" alt="Jovan Emmanuel's Dev Card"/></a>
+###
+
+<h2 align="left">Tech & Tools</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+</div>
+
+###
+
+<h2 align="left">My Contributions</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zonxen&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
